@@ -17,8 +17,8 @@
   "author": "Dika Ardnt.",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.4.0",
-    "cheerio": "^1.0.0-rc.12",
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
     "form-data": "^4.0.0"
   }
 }
