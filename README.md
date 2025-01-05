@@ -1,12 +1,21 @@
 # Installation
 
 ```sh
-npm i mumaker
+npm install PikaBotz/mumaker#v1.0.0
 ```
 
 ```js
-const mumaker = require("mumaker")
+const mumaker = require("mumaker");
 ```
+
+---
+
+> In package.json If Needed
+```json
+"mumaker": "PikaBotz/mumaker#v1.0.0"
+```
+
+---
 
 # Example Maker
 
