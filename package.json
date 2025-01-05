@@ -1,7 +1,7 @@
 {
   "name": "mumaker",
-  "version": "2.0.0",
-  "description": "Maker and Downloader",
+  "version": "1.0.0",
+  "description": "Maker",
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
